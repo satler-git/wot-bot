@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "bradlc.vscode-tailwindcss",
+    "vitest.explorer",
+    "amodio.tsl-problem-matcher",
+    "ipatalas.vscode-postfix-ts",
+    "gamunu.vscode-yarn",
+    "editorconfig.editorconfig"
+  ]
+}
