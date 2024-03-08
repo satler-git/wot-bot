@@ -934,9 +934,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@repo/typescript-config@npm:*, @repo/typescript-config@workspace:packages/typescript-config":
+"@repo/tsconfig@npm:*, @repo/tsconfig@workspace:packages/tsconfig":
   version: 0.0.0-use.local
-  resolution: "@repo/typescript-config@workspace:packages/typescript-config"
+  resolution: "@repo/tsconfig@workspace:packages/tsconfig"
   languageName: unknown
   linkType: soft
 
@@ -945,7 +945,7 @@ __metadata:
   resolution: "@repo/ui@workspace:packages/ui"
   dependencies:
     "@repo/eslint-config": "npm:*"
-    "@repo/typescript-config": "npm:*"
+    "@repo/tsconfig": "npm:*"
     "@turbo/gen": "npm:^1.12.4"
     "@types/eslint": "npm:^8.56.5"
     "@types/node": "npm:^20.11.24"
@@ -8364,7 +8364,7 @@ __metadata:
   resolution: "wot-bot@workspace:."
   dependencies:
     "@repo/eslint-config": "npm:*"
-    "@repo/typescript-config": "npm:*"
+    "@repo/tsconfig": "npm:*"
     prettier: "npm:^3.2.5"
     turbo: "npm:latest"
   languageName: unknown
